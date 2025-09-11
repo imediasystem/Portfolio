@@ -3,6 +3,8 @@
 ## 🔥 Project Name - PORTFOLIO
 See the live version of [PORTFOLIO](https://imediasystem.github.io/Portfolio/) ↗️
 
+A portfolio website design for a freelance web designer. The site showcases their offerings and programming skills. It also includes links to completed projects. HTML, CSS, and JavaScript were used, along with the Bootstrap framework.
+
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
