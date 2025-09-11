@@ -1032,7 +1032,7 @@ a {
   }
 }
 .cid-uVwYpUOJ1y {
-  background-image: url("../../../assets/images/digital-1-1920x1200.jpeg");
+  background-image: url("../../../assets/images/web-design-scaled.jpg");
 }
 .cid-uVwYpUOJ1y .mbr-fallback-image.disabled {
   display: none;
@@ -1071,9 +1071,11 @@ a {
 .cid-uVwYpUOJ1y .mbr-section-btn,
 .cid-uVwYpUOJ1y .social-row {
   color: #000000;
+  text-align: center;
 }
 .cid-uVwYpUOJ1y .mbr-section-subtitle {
   color: #000000;
+  text-align: center;
 }
 .cid-sFF3eJNZDT {
   padding-top: 4rem;
@@ -1370,7 +1372,7 @@ a {
   text-align: center;
 }
 .cid-sFF3kfZheU H4 {
-  color: #8e8d8a;
+  color: #232323;
 }
 .cid-sFF3kfZheU H3 {
   color: #000000;
@@ -1527,6 +1529,9 @@ a {
   align-items: center;
 }
 .cid-sFF3qL4anb H1 {
+  color: #232323;
+}
+.cid-sFF3qL4anb P {
   color: #232323;
 }
 .cid-sFF3B84VW8 {
