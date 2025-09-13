@@ -1,4 +1,4 @@
-<img width="1900" height="925" alt="Zrzut ekranu 2025-09-11 135155" src="https://github.com/user-attachments/assets/e720750d-9783-43b7-b6e6-2b86142ee415" />
+<img width="1903" height="927" alt="Zrzut ekranu 2025-09-13 102951" src="https://github.com/user-attachments/assets/a5e56d4a-58d2-4778-9151-34bb281f3525" />
 
 ## 🔥 Project Name - PORTFOLIO
 See the live version of [PORTFOLIO](https://imediasystem.github.io/Portfolio/) ↗️
