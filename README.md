@@ -1,4 +1,4 @@
-<img width="1903" height="927" alt="Zrzut ekranu 2025-09-13 102951" src="https://github.com/user-attachments/assets/a5e56d4a-58d2-4778-9151-34bb281f3525" />
+[<img width="1903" height="927" alt="Zrzut ekranu 2025-09-13 102951" src="https://github.com/user-attachments/assets/a5e56d4a-58d2-4778-9151-34bb281f3525" />](https://imediasystem.github.io/Portfolio/)
 
 ## 🔥 Project Name - PORTFOLIO
 See the live version of [PORTFOLIO](https://imediasystem.github.io/Portfolio/) ↗️
@@ -25,3 +25,6 @@ Are you interested in? See my other projects and visit my website [iMedia SysteM
 ## 📝 Feel free to contact me
 Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
 &nbsp;
+
+## 👏 Thanks / Special thanks / Credits
+Thanks to my wife – for her time, advice, encouragement and support in creating this project.
